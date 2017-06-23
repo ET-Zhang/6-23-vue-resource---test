@@ -2,7 +2,7 @@
   "name": "622testdata",
   "version": "1.0.0",
   "description": "2017-6-22 data test ",
-  "author": "zhangyingjie <zhengyingjie@huofar.com>",
+  "author": "ET-Zhang",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
