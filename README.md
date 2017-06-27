@@ -22,3 +22,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 
 测试版本————个人记录
+应用测试版本。。。。只是简单测试。
